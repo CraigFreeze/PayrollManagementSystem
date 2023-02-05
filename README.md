@@ -25,7 +25,7 @@ I used python version 3.10.5 and pyuic6 (warning: most online resources still us
 
 # Useful Websites
 
-- [PYQT Database Tutorial](https://realpython.com/python-pyqt-database/)
+- [PYQT Tutorial](https://realpython.com/python-pyqt-gui-calculator/)
 - [Web Site Name](https://doc.qt.io/qtforpython/PySide6/QtSql/QSqlQuery.html#PySide6.QtSql.PySide6.QtSql.QSqlQuery.exec)
 - [W3 Schools Joins](https://www.w3schools.com/sql/sql_join_right.asp)
 - [String Interpolation](https://www.programiz.com/python-programming/string-interpolation)
