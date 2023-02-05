@@ -68,13 +68,6 @@ class Employees(QMainWindow):
         self.view.setGeometry(QRect(10, 10, 751, 261))
         self.tabWidget.addTab(self.tab_2, "")
 
-        # self.tableWidget_2 = QTableWidget(parent=self.tab_2)
-        # self.tableWidget_2.setGeometry(QRect(0, 10, 771, 261))
-        # self.tableWidget_2.setObjectName("tableWidget_2")
-        # self.tableWidget_2.setColumnCount(0)
-        # self.tableWidget_2.setRowCount(0)
-        # self.tabWidget.addTab(self.tab_2, "")
-
         #Delete Row Input
         delete_spinBox = QSpinBox(self,
             value = 1,
