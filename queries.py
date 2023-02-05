@@ -30,7 +30,7 @@ createTableQuery.exec(
     CREATE TABLE payroll (
         id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE NOT NULL,
         name VARCHAR(40) NOT NULL,
-        hourlyPay REAL,
+        hourlyPay,
         hoursWorked REAL NOT NULL
     )
     """
